@@ -1,0 +1,10 @@
+C:\Users\opilane\Downloads\SeleniumTooDorian\SeleniumTooDorian\obj\Debug\net8.0\SeleniumTooDorian.csproj.AssemblyReference.cache
+C:\Users\opilane\Downloads\SeleniumTooDorian\SeleniumTooDorian\obj\Debug\net8.0\SeleniumTooDorian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Downloads\SeleniumTooDorian\SeleniumTooDorian\obj\Debug\net8.0\SeleniumTooDorian.AssemblyInfoInputs.cache
+C:\Users\opilane\Downloads\SeleniumTooDorian\SeleniumTooDorian\obj\Debug\net8.0\SeleniumTooDorian.AssemblyInfo.cs
+C:\Users\opilane\Downloads\SeleniumTooDorian\SeleniumTooDorian\obj\Debug\net8.0\SeleniumTooDorian.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\SeleniumTooDorian\SeleniumTooDorian\obj\Debug\net8.0\SeleniumTooDorian.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\SeleniumTooDorian\SeleniumTooDorian\obj\Debug\net8.0\SeleniumTooDorian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\SeleniumTooDorian\SeleniumTooDorian\obj\Debug\net8.0\SeleniumTooDorian.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SeleniumTooDorian\SeleniumTooDorian\obj\Debug\net8.0\SeleniumTooDorian.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SeleniumTooDorian\SeleniumTooDorian\obj\Debug\net8.0\SeleniumTooDorian.csproj.CoreCompileInputs.cache
